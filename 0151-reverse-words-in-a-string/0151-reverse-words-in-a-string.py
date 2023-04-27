@@ -3,8 +3,7 @@ class Solution:
         x  = s.strip()
         y = x.split(" ")
         print(y)
-        for i in y:
-            i = i.strip()
+        
         
         fir = 0
         las = len(y) - 1
